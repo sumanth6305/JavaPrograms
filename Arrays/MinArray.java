@@ -1,5 +1,4 @@
-// Find minimum element – Same, track min
-// Find maximum element – Loop through array, track max
+// Find minimum element – Loop through array, track min
 import java.util.*;
 class MinArray{
 	public static void main(String args[]){
