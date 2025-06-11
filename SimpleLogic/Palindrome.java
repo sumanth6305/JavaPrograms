@@ -1,6 +1,6 @@
 //Check if a number is palindrome – 121 → palindrome; 123 → not 
 import java.util.*;
-class Polindrome{
+class Palindrome{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 	    System.out.println("Enter  number");
